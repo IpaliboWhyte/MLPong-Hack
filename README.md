@@ -1,10 +1,9 @@
 MLPong
 ======
 
-<img src="https://raw.github.com/TosinAF/GoCode/master/Screenshots/LaunchPage.png" height="25%" width="25%" />
+<img src="https://raw.githubusercontent.com/IpaliboWhyte/MLPong-Hack/master/Screenshots/Home.png" height="25%" width="25%" />
 <img src="https://raw.github.com/TosinAF/GoCode/master/Screenshots/LessonPicker.png" height="25%" width="25%" />
 <img src="https://raw.github.com/TosinAF/GoCode/master/Screenshots/LessonView.png" height="25%" width="25%" /><br>
-<img src="https://raw.github.com/TosinAF/GoCode/master/Screenshots/ChallengeMode.png" height="25%" width="25%" />
 
 
 GoCode gets you started by introducing you to the basic concepts of coding. You’ll learn to understand the basic structure of code when you see it. the app is designed to make the learning experience as fun as possible whilst keeping the user engaged at all stages.<br>
